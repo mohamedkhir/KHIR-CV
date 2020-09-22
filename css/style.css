@@ -1,0 +1,9 @@
+.hero{
+    width: 90%;height: 800px; position: relative; overflow: hidden;
+}
+.content{
+    position: absolute;transform: translateX(170%);transition: 0.5s;
+}
+#profile{
+    transform: translateX(0);
+}
